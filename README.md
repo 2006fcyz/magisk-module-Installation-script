@@ -1,5 +1,5 @@
 # magisk-module-Installation-script
-how to use Provided by the warehouse. magisk Module installation script
+How to use the information provided by the warehouse. magisk Module installation script
 The following steps are used.
 Download your corresponding language script.
 1. Download the installation script of magisk module provided by this warehouse.
